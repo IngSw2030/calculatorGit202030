@@ -5,4 +5,5 @@ public class Authors {
 	public static final String AA="Another Author";
 	public static final String SAA="Still Another Author...";
 	public static final String DAHE="Daniel Hernandez";
+	public static final String JHVG="Jairo Hernan Vanegas Garcia";
 }
