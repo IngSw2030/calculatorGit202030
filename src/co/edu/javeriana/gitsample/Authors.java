@@ -11,4 +11,5 @@ public class Authors {
 	public static final String JPMP= "Juan Pablo Mendez Perdomo";
 	public static final String DABM= "Diego Andres Burgos Melo";
 	public static final String JCSJ="Juan Carlos Suárez Jaimes";
+	public static final String JMDL="Juan Manuel Duarte Lopez";
 }
