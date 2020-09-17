@@ -8,4 +8,5 @@ public class Authors {
 	public static final String JHVG="Jairo Hernan Vanegas Garcia";
 	public static final String GGC="Gabriel Gomez Corredor";
 	public static final String JPMP= "Juan Pablo Mendez Perdomo";
+	public static final String DABM= "Diego Andres Burgos Melo";
 }
