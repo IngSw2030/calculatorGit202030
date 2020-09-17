@@ -19,6 +19,6 @@ public class Authors {
 	public static final String GANC = "Gabriel Andres Nino Carvajal";
 	public static final String SRD = "Santiago Roa Dueñas";
 	public static final String JJGM = "John Jairo Gonzalez Martinez";
-
+	public static final String LSLL = "Leonel Steven Londono Londono";
 	
 }
