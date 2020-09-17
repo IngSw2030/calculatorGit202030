@@ -10,6 +10,8 @@ public class Authors {
     public static final String ADGB="Andres David Gomez Bautista";
 	public static final String JPMP= "Juan Pablo Mendez Perdomo";
 	public static final String DABM= "Diego Andres Burgos Melo";
-	public static final String JCSJ="Juan Carlos Suárez Jaimes";
+	public static final String JCSJ="Juan Carlos Suï¿½rez Jaimes";
 	public static final String JMDL="Juan Manuel Duarte Lopez";
+	public static final String SACH="Santiago Andres Caroprese Hidalgo";
+	
 }
