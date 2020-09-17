@@ -13,5 +13,6 @@ public class Authors {
 	public static final String JCSJ="Juan Carlos Su�rez Jaimes";
 	public static final String JMDL="Juan Manuel Duarte Lopez";
 	public static final String SACH="Santiago Andres Caroprese Hidalgo";
+	public static final String SGO = "Stiven Gonzalez Olaya";
 	
 }
