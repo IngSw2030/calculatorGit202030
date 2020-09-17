@@ -24,7 +24,7 @@ public class CalculadoraGGC implements ICalculator {
 
 
 	public String about() {
-		String linea="Calculator implementend by <<Authors.GGC>>";
+		String linea="Calculator implementend by << "+ Authors.GGC +" >>";
 		return linea;
 	}
 
