@@ -14,6 +14,7 @@ public class Authors {
 	public static final String JMDL="Juan Manuel Duarte Lopez";
 	public static final String SACH="Santiago Andres Caroprese Hidalgo";
 	public static final String SGO = "Stiven Gonzalez Olaya";
+	public static final String JJAO = "Juan José Afanador Ochoa";
 	public static final String JACS = "Julian Arturo Calle";
 	
 }
