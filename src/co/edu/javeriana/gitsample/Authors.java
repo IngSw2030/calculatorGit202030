@@ -7,7 +7,7 @@ public class Authors {
 	public static final String DAHE="Daniel Hernandez";
 	public static final String JHVG="Jairo Hernan Vanegas Garcia";
 	public static final String GGC="Gabriel Gomez Corredor";
-    public static final String ADGB="Andres David Gomez Bautista";
+    	public static final String ADGB="Andres David Gomez Bautista";
 	public static final String JPMP= "Juan Pablo Mendez Perdomo";
 	public static final String DABM= "Diego Andres Burgos Melo";
 	public static final String JCSJ="Juan Carlos Su�rez Jaimes";
@@ -20,5 +20,6 @@ public class Authors {
 	public static final String SRD = "Santiago Roa Dueñas";
 	public static final String JJGM = "John Jairo Gonzalez Martinez";
 	public static final String LSLL = "Leonel Steven Londono Londono";
+	public static final String JMY= "Jenifer Medina Yepez";
 	
 }
