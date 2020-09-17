@@ -16,6 +16,6 @@ public class Authors {
 	public static final String SGO = "Stiven Gonzalez Olaya";
 	public static final String JJAO = "Juan José Afanador Ochoa";
 	public static final String JACS = "Julian Arturo Calle";
-	public static final String GANC = "Gabriel Andres Nino Carvajal"
+	public static final String GANC = "Gabriel Andres Nino Carvajal";
 	
 }
