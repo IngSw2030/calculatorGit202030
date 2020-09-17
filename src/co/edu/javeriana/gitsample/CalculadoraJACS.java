@@ -19,7 +19,6 @@ public class CalculadoraJACS implements ICalculator {
     }
 	public String about(){
         String about = "Esta calculadora fue implementada por: "+ Authors.JACS;
-        System.out.println(about); 
         return about;
     }
 
