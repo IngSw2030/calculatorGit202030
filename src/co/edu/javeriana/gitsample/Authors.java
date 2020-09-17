@@ -20,5 +20,6 @@ public class Authors {
 	public static final String SRD = "Santiago Roa Dueñas";
 	public static final String JJGM = "John Jairo Gonzalez Martinez";
 	public static final String LSLL = "Leonel Steven Londono Londono";
+	public static final String EAGS = "Erika Alejandra Gonzalez Solano";
 	
 }
