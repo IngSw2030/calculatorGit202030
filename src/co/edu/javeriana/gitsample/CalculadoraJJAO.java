@@ -1,6 +1,6 @@
 package co.edu.javeriana.gitsample;
 
-public class CalculadoraJCSJ implements ICalculator{
+public class CalculadoraJJAO implements ICalculator{
 
 	public double add(double a, double b) {
 		return a + b;
