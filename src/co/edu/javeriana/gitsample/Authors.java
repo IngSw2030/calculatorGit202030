@@ -1,6 +1,7 @@
 package co.edu.javeriana.gitsample;
 
 public class Authors {
+	public static final String CAPA = "Carlos Parra";
 	public static final String AA = "Another Author";
 	public static final String CAPA = "Carlos Parra";
 	public static final String SAA = "Still Another Author...";
@@ -24,4 +25,6 @@ public class Authors {
 	public static final String EAGS = "Erika Alejandra Gonzalez Solano";
 	public static final String JRST = "Jorge Rodrigo Salgado Tello";
 	public static final String JSAT = "Juan Sebastian Angarita Torres";
+	public static final String DETG = "Daniel Esteban Tibaquira Galindo";
+
 }
