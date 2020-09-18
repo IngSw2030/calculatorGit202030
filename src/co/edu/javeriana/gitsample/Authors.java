@@ -26,8 +26,9 @@ public class Authors {
 	public static final String JRST = "Jorge Rodrigo Salgado Tello";
 	public static final String JSAT = "Juan Sebastian Angarita Torres";
 	public static final String DETG = "Daniel Esteban Tibaquira Galindo";
+	public static final String DMBN = "Diego Mauricio Bulla Nu√±ez";
 <<<<<<< HEAD
-	public static final String SICA = "Sandra Isabel Ch·vez Alcalde";
+	public static final String SICA = "Sandra Isabel ChÔøΩvez Alcalde";
 	public static final String ADBA = "Alex DAvid Barreto Alfonso";
 =======
 	public static final String SICA = "Sandra Isabel ChÔøΩvez Alcalde";
