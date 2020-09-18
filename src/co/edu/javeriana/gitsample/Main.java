@@ -12,6 +12,12 @@ public class Main {
 		// calculator.add(7,5);
 		// calculator.substract(8,9);
 		// calculator.about();
+		/**ICalculator CalculadoraSICA = new CalculadoraSICA();
+		 System.out.println("Resultados operaciones: " + " Suma " + CalculadoraSICA.add(3,2) + " Resta " + CalculadoraSICA.substract(3,2)+ " Division " + CalculadoraSICA.divide(3,2)+ " Multiplicacion " + CalculadoraSICA.multiply(3,2));
+		   System.out.println(CalculadoraSICA.about());**/
+		
+		
+		
 		
 	}
 }
