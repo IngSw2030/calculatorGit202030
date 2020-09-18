@@ -26,7 +26,16 @@ public class Authors {
 	public static final String JRST = "Jorge Rodrigo Salgado Tello";
 	public static final String JSAT = "Juan Sebastian Angarita Torres";
 	public static final String DETG = "Daniel Esteban Tibaquira Galindo";
+<<<<<<< HEAD
 	public static final String SICA = "Sandra Isabel Chávez Alcalde";
 	public static final String ADBA = "Alex DAvid Barreto Alfonso";
+=======
+	public static final String SICA = "Sandra Isabel Chï¿½vez Alcalde";
+<<<<<<< HEAD
+	public static final String SRS = "Sebastian Roberts Serrato";
+>>>>>>> da13be6f13d5cfb6f9a3b2dcece2b7bd278b5eea
 
+=======
+	public static final String LYCV = "Luisa Yurani Contreras Vergel";
+>>>>>>> fb735ae0296a0590edb06c0b0d69b965f5a32aa1
 }
